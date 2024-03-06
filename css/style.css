@@ -1,0 +1,16 @@
+.base {
+    background: url(../img/4b2e8b4f-812d-4f87-a588-de5b898ddbbc.jpeg) center center / cover no-repeat;
+    height: 800px;
+}
+.text{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+    color: orange;
+}
+.ps {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+    color: red;
+}
